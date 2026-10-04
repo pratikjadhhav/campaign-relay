@@ -1,0 +1,19 @@
+{
+  "name": "campaign-relay",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "netlify build",
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7",
+    "imap": "^0.8.19",
+    "mailparser": "^6.0.1",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
