@@ -10,7 +10,7 @@
   "dependencies": {
     "nodemailer": "^6.9.7",
     "imap": "^0.8.19",
-    "mailparser": "^6.0.5",
+    "mailparser": "6.0.5",
     "node-fetch": "^2.7.0"
   },
   "engines": {
